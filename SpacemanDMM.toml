@@ -1,4 +1,4 @@
-environment = "tgstation.dme"
+environment = "deathinspace.dme"
 
 [langserver]
 dreamchecker = true
